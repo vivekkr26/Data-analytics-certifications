@@ -1,2 +1,20 @@
-# Data-analytics-certifications
-This repository contains my certifications related to Data Analytics and Python.
+# 📜 Data Analytics Certifications
+
+This repository contains certifications I have completed to strengthen my skills in Python and Data Analytics.
+
+---
+
+## 🐍 Python
+
+• Python Bootcamp – CodeWithHarry (2025)
+
+Skills Covered:
+- Python fundamentals
+- Data types
+- Functions
+- OOP basics
+- File handling
+
+---
+
+More certifications will be added as I continue learning.
