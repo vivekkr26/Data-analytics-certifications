@@ -16,5 +16,8 @@ Skills Covered:
 - File handling
 
 ---
+## Data analytics 
+
+## cyber-security for business 
 
 More certifications will be added as I continue learning.
